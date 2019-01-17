@@ -1,0 +1,18 @@
+  h1 {text-align: center;}
+  a:link {text-decoration: underline;}
+  a:hover {text-decoration: underline;
+            color: red;
+           }
+   p {font-size: 25x;
+   text-align: center;
+   }
+      body{ background-color: gray;}
+      table {
+      border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+      border: 1px solid black; /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+      }
+
+      th {border: 2px solid black;
+      background-color: green;
+      }
+      td {border: 2px solid black;}
