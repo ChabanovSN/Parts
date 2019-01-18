@@ -121,7 +121,7 @@
                 <tr>
                     <td>
                         <form:label path="isNecessary">
-                            <spring:message text="Обязательная" />
+                            <spring:message text="Необходимость" />
                         </form:label>
                     </td>
                     <td><form:checkbox path="isNecessary" />
